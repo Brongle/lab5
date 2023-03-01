@@ -1,8 +1,9 @@
 td, th {
-	border: 1px solid;
-	font: 
+	border: 1px solid blue;
+	text-align: center;
   }
-#images {
-	width: 400px;
-	height: 400px;
+img {
+	width: 100%;
+	height: auto;
+	border: 1px solid purple;
   }
