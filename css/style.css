@@ -1,18 +1,18 @@
-td, th {
+td, th{
 	border: 1px solid blue;
 	text-align: center;
   }
-body {
+body{
 	font-size:16px;
 	text-align: center;
 	background-color: black;
 } 
-.img {
+.img{
 	width: 100%;
 	height: auto;
 	border: 1px solid purple;
   }
-.facts {
+.facts{
 	font-size:16px;
 	font-family: "Times New Roman", Times, serif;
 	margin-left: auto;
